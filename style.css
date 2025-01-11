@@ -88,6 +88,9 @@ button{
 .content{
   display: flex;
   gap: 16px;
+  margin-top: 24px;
+  margin-bottom: 48px;
+  /* justify-content: center; */
 }
 
 .intro{
